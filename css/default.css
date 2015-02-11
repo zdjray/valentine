@@ -132,7 +132,7 @@ body {
     left: 80px;
 }
 
-@media (max-width: 600px) {
+@media (orientation: portrait) {
 
     #content{
         margin: 30px 10px;
